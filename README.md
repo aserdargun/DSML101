@@ -6,7 +6,7 @@ I had a good understanding on Python before. On the other hand, I wanted to go f
 * <a href="https://www.udemy.com/course/python-3-deep-dive-part-2/?referralCode=3E7AFEF5174F04E5C8D4/" target="_blank">Python 3: Deep Dive (Part 2 - Iteration, Generators)</a> Udemy Course which length is 36 hours.
 * <a href="https://www.udemy.com/course/python-3-deep-dive-part-3/?referralCode=C5B0D9AB965B9BF4C49F/" target="_blank">Python 3: Python 3: Deep Dive (Part 3 - Hash Maps)</a> Udemy Course which length is 22 hours.
 * <a href="https://www.udemy.com/course/python-3-deep-dive-part-4/?referralCode=3BB758BE4C04FB983E6F/" target="_blank">Python 3: Deep Dive (Part 4 - OOP)</a> Udemy Course which length is 36.5 hours.
-<p>After a while, I will start sharing my reviews and recaps on this <a href="https://github.com/aserdargun/aserdargun/blob/main/MyPythonCheatSheet.ipynb">MyPythonCheatSheet</a> file.
+<p>I have just started sharing my reviews and recaps on this <a href="https://github.com/aserdargun/aserdargun/blob/main/MyPythonCheatSheet.ipynb">MyPythonCheatSheet</a> file.
 <p>My freelancer account is https://www.tr.freelancer.com/u/aserdargun
 <p>I enrolled Data Science Certification Program and I am planning to take certificate in January 2023.
 <p>Stay Tuned...
