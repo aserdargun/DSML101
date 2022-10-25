@@ -1,20 +1,17 @@
 👋 Hi, I’m Serdar Gundogdu. I’m interested in Python and Data Science. I have a good understanding on Python. I try to become a Data Scientist.
 
-I have completed all of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in UDEMY for 139 hours. You can find below aggregated and rewritten Jupyter Notebook Files.
+I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in [UDEMY](https://www.udemy.com/courses/search/?src=ukw&q=%22fred+baptiste%22) courses. You can find below aggregated and rewritten Jupyter Notebook Files.
   * [MyPythonDeepDivePart1](https://github.com/aserdargun/aserdargun/blob/main/MyPythonDeepDivePart1.ipynb)
   * MyPythonDeepDivePart2
   * MyPythonDeepDivePart3
   * MyPythonDeepDivePart4
-<p>If you wish to reach original GitHub repository, The link is <a href="https://github.com/aserdargun/python-deepdive">here</a>.
-<p>I am planning to complete Jupyter notebook formatted aggregated version of Python Deep Dive series below.
-  
 <p>My medium account is https://medium.com/@aserdargun
 <p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
 <p> Python Deep Dive
   
   * Identifier Names
   * Variables and Memory
-  * Everythinh is an Object
+  * Everything is an Object
   * Function Parameters
   * Global and Local Scopes
   * Closures
