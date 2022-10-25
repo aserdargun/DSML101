@@ -1,19 +1,12 @@
-👋 Hi, I’m @aserdargun. I’m interested in Python and Data Science.
+👋 Hi, I’m Serdar Gundogdu. I’m interested in Python and Data Science. I have a good understanding on Python. I try to become a Data Scientist.
 
-I'm a student of Fred Baptiste <a href="https://github.com/fbaptiste" target="_blank">(@fbaptiste)</a> who is tutoring Python Deep Dive Series on Udemy. I will be sharing my special hints from Deep Dive series by using Google Colab Notebook.
-I had a good understanding on Python before. On the other hand, I wanted to go far beyond this. Till now, I have completed these courses below.
-* <a href="https://www.udemy.com/course/python-3-deep-dive-part-1/?referralCode=E46B931C71EE01845062/" target="_blank">Python 3: Deep Dive (Part 1 - Functional)</a> Udemy Course which length is 44.5 hours.
-* <a href="https://www.udemy.com/course/python-3-deep-dive-part-2/?referralCode=3E7AFEF5174F04E5C8D4/" target="_blank">Python 3: Deep Dive (Part 2 - Iteration, Generators)</a> Udemy Course which length is 36 hours.
-* <a href="https://www.udemy.com/course/python-3-deep-dive-part-3/?referralCode=C5B0D9AB965B9BF4C49F/" target="_blank">Python 3: Python 3: Deep Dive (Part 3 - Hash Maps)</a> Udemy Course which length is 22 hours.
-* <a href="https://www.udemy.com/course/python-3-deep-dive-part-4/?referralCode=3BB758BE4C04FB983E6F/" target="_blank">Python 3: Deep Dive (Part 4 - OOP)</a> Udemy Course which length is 36.5 hours.
-<p>If you wish to reach original GitHub repository, The link is <a href="https://github.com/aserdargun/python-deepdive">here</a>.
-<p>I have just started sharing <a href="https://github.com/aserdargun/aserdargun/blob/main/MyPythonDeepDivePart1.ipynb">MyPythonDeepDivePart1</a> Google Colab file. This is categorized and aggregated version of this course files. It includes minor changes and additions for my future use. If you are a beginner of Python, you should study "A Quick Refresher Section" of this file. If you want to go advanced, please follow me and fork my file. I suggest that you could open file in Google Colab Notebook, so you will try your code.
-<p>I am planning to complete Jupyter notebook formatted aggregated version of these courses below.
-  
-  * <a href="https://github.com/aserdargun/aserdargun/blob/main/MyPythonDeepDivePart1.ipynb">MyPythonDeepDivePart1</a>
+I have completed all of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in 139 hours. You can find below aggregated and rewritten Jupyter Notebook Files.
+  * [MyPythonDeepDivePart1](https://github.com/aserdargun/aserdargun/blob/main/MyPythonDeepDivePart1.ipynb)
   * MyPythonDeepDivePart2
   * MyPythonDeepDivePart3
   * MyPythonDeepDivePart4
+<p>If you wish to reach original GitHub repository, The link is <a href="https://github.com/aserdargun/python-deepdive">here</a>.
+<p>I am planning to complete Jupyter notebook formatted aggregated version of Python Deep Dive series below.
   
 <p>My medium account is https://medium.com/@aserdargun
 <p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
