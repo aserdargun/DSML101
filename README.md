@@ -8,6 +8,31 @@ I had a good understanding on Python before. On the other hand, I wanted to go f
 * <a href="https://www.udemy.com/course/python-3-deep-dive-part-4/?referralCode=3BB758BE4C04FB983E6F/" target="_blank">Python 3: Deep Dive (Part 4 - OOP)</a> Udemy Course which length is 36.5 hours.
 <p>If you wish to reach original GitHub repository, The link is <a href="https://github.com/aserdargun/python-deepdive">here</a>.
 <p>I have just started sharing <a href="https://github.com/aserdargun/aserdargun/blob/main/MyPythonDeepDivePart1.ipynb">MyPythonDeepDivePart1</a> Google Colab file. This is categorized and aggregated version of this course files. It includes minor changes and additions for my future use. If you are a beginner of Python, you should study "A Quick Refresher Section" of this file. If you want to go advanced, please follow me and fork my file. I suggest that you could open file in Google Colab Notebook, so you will try your code.
+<p>I am planning to complete Jupyter notebook formatted aggregated version of these courses below.
+  
+  * <a href="https://github.com/aserdargun/aserdargun/blob/main/MyPythonDeepDivePart1.ipynb">MyPythonDeepDivePart1</a>
+  * MyPythonDeepDivePart2
+  * MyPythonDeepDivePart3
+  * MyPythonDeepDivePart4
+  
+<p>My medium account is https://medium.com/@aserdargun
+<p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
+<p> Python Deep Dive
+  
+  * Identifier Names
+  * Variables and Memory
+  * Everythinh is an Object
+  * Function Parameters
+  * Global and Local Scopes
+  * Closures
+  * So on...
+  <p> Data Science
+    
+  * Rule-Based Classification
+  * RFM (Recency, Frequency, Monetary) Analysis for Customer Segmentation
+  * Customer Lifetime Value Prediction
+  * So on...
+  
 <p>My freelancer account is https://www.tr.freelancer.com/u/aserdargun
 <p>I enrolled Data Science Certification Program and I am planning to take certificate in January 2023.
 <p>Stay Tuned...
