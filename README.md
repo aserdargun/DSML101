@@ -1,6 +1,6 @@
 👋 Hi, I’m Serdar Gundogdu. I’m interested in Python and Data Science. I have a good understanding on Python. I try to become a Data Scientist.
 
-I have completed all of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in 139 hours. You can find below aggregated and rewritten Jupyter Notebook Files.
+I have completed all of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in UDEMY for 139 hours. You can find below aggregated and rewritten Jupyter Notebook Files.
   * [MyPythonDeepDivePart1](https://github.com/aserdargun/aserdargun/blob/main/MyPythonDeepDivePart1.ipynb)
   * MyPythonDeepDivePart2
   * MyPythonDeepDivePart3
