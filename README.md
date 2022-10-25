@@ -10,7 +10,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
 <p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
 <p> Python Deep Dive
   
-  * Identifier Names
+  * [Identifier Names](https://medium.com/@aserdargun/python-deep-dive-identifier-names-92ec00a35b0a)
   * Variables and Memory
   * Everything is an Object
   * Function Parameters
