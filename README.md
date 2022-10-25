@@ -6,7 +6,6 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * MyPythonDeepDivePart2
   * MyPythonDeepDivePart3
   * MyPythonDeepDivePart4
-<p>My medium account is https://medium.com/@aserdargun
 <p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
 <p> Python Deep Dive
   
@@ -25,7 +24,9 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * So on...
 <p>Stay Tuned...
 
-
+<p>Medium: https://medium.com/@aserdargun
+<p>Kaggle: https://www.kaggle.com/serdargundogdu
+<p>Twitter: https://twitter.com/dsml101
 <!---
 aserdargun/aserdargun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
