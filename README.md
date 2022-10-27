@@ -8,7 +8,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * MyPythonDeepDivePart3
   * MyPythonDeepDivePart4
 <p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
-<p> Python Deep Dive
+<p> <b>Python Deep Dive</b>
   
   * [Identifier Names](https://medium.com/@aserdargun/python-deep-dive-identifier-names-92ec00a35b0a)
   * Variables and Memory
@@ -17,7 +17,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * Global and Local Scopes
   * Closures
   * So on...
-  <p> Data Science
+<p> <b>Data Science</b>
     
   * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
   * RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation
