@@ -18,16 +18,16 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * So on...
   <p> Data Science
     
-  * [Rule-Based Classification: Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
-  * RFM (Recency, Frequency, Monetary) Analysis: Customer Segmentation
-  * BG-NBD and Gamma-Gamma: CLV (Customer Lifetime Value) Prediction
+  * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
+  * RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation
+  * BG-NBD and Gamma-Gamma : CLV (Customer Lifetime Value) Prediction
   * So on...
 <p>Stay Tuned...
 
-<p>Medium: https://medium.com/@aserdargun
-<p>Kaggle: https://www.kaggle.com/serdargundogdu
-<p>Twitter: https://twitter.com/dsml101
-<p>Freelancer: https://www.tr.freelancer.com/u/aserdargun
+<p>Medium : https://medium.com/@aserdargun
+<p>Kaggle : https://www.kaggle.com/serdargundogdu
+<p>Twitter : https://twitter.com/dsml101
+<p>Freelancer : https://www.tr.freelancer.com/u/aserdargun
 <!---
 aserdargun/aserdargun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
