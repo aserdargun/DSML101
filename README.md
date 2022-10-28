@@ -20,13 +20,13 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
 <p> <b>Data Science</b>
     
   * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
-  * RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation
+  * [RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation](https://www.kaggle.com/code/aserdargun/rfc-analysis-customer-segmentation)
   * BG-NBD and Gamma-Gamma : CLV (Customer Lifetime Value) Prediction
   * So on...
 <p>Stay Tuned...
 
 <p>Medium : https://medium.com/@aserdargun
-<p>Kaggle : https://www.kaggle.com/serdargundogdu
+<p>Kaggle : https://www.kaggle.com/aserdargun
 <p>Twitter : https://twitter.com/dsml101
 <p>Freelancer : https://www.tr.freelancer.com/u/aserdargun
 <!---
